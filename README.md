@@ -1,1 +1,4 @@
-# Comp340_3
+# Comp340 3 Collaborative Game Demo
+
+### Online presense
+http://deanharland.co.uk/blog/ 
